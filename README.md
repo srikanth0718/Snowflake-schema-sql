@@ -1,1 +1,1 @@
-# Snowflake-schema-sql
+snowflake_schema.sql
